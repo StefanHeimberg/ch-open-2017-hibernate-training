@@ -1,0 +1,3 @@
+default.configuration=DatabaseFunctions
+eclipse.preferences.version=1
+hibernate3.enabled=true

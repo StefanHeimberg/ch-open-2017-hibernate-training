@@ -1,0 +1,1 @@
+INSERT INTO book (id, publishingdate, title, version) VALUES (100, '2008-05-08', 'Effective Java', 0);
